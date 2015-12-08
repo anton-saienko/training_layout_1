@@ -30,7 +30,7 @@ $(document).ready(function() {
 	// count up or countdown
 	direction: 'down',
 	// the target <a href="http://www.jqueryscript.net/time-clock/">date</a>
-	date: 'November 20, 2015 08:30:30',
+	date: 'February 20, 2016 08:30:30',
 	// callback works only with direction = "down"
 	callback: function() { alert('times up!'); }
 	});

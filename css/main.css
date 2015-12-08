@@ -226,6 +226,15 @@ padding: 5px 20px 5px 15px;
 margin-left: 15px;
 margin-top: 8px;
 }
+.tab_content .second{
+background-color: darkorange;
+}
+.tab_content .third{
+background-color: blue;
+}
+.tab_content .fourth{
+background-color: green;
+}
 
 .tab_content a:first-of-type {
 margin-top: 22px;
@@ -238,6 +247,18 @@ border-top:15px solid #efefef;
 border-left:5px solid #ca1626; 
 border-bottom:15px solid #efefef;
 padding-right:5px;
+}
+
+.second_border{
+border-left: 5px solid darkorange;
+}
+
+.third_border{
+border-left: 5px solid blue;
+}
+
+.fourth_border{
+border-left: 5px solid green;
 }
 
 .right_border:first-of-type {
